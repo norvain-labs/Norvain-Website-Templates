@@ -12,13 +12,13 @@ Responsive corporate website template for businesses and agencies.
 ### Hospitality Economic
 Website template for hotels, boutique properties, and accommodation businesses.
 
-[Live Demo](https://norvain-hospitality-demo.netlify.app) [Buy on Gumroad](https://norvain.gumroad.com/l/hospitality-economic)
+[Live Demo](https://norvain-hospitality-demo.netlify.app) | [Buy on Gumroad](https://norvain.gumroad.com/l/hospitality-economic)
 
 
 ### Gastro Economic
 Website template for restaurants, cafes, and food businesses.
 
-[Live Demo](https://norvain-gastro-demo.netlify.app) [Buy on Gumroad](https://norvain.gumroad.com/l/gastro-economic)
+[Live Demo](https://norvain-gastro-demo.netlify.app) | [Buy on Gumroad](https://norvain.gumroad.com/l/gastro-economic)
 
 
 ## About NorVain Labs
