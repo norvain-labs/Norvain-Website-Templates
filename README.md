@@ -1,14 +1,29 @@
 
 <div align="center">
 
-# NorVain Labs
-### Economic Collection
 
-**Customizable website source-code templates for developers, freelancers, and small agencies.**
+### 01 — Corporate Economic
 
-Build your next client project with a practical starting point.
+![Corporate Economic Preview](assets/corporate-economic.webp)
 
-[Explore Live Demos](#explore-the-collection) · [Browse on Gumroad](https://norvain.gumroad.com) · [Official Website](https://norvainlabs.com)
+[Live Demo](https://norvain-corporate-demo.netlify.app/)
+
+---
+
+### 02 — Hospitality Economic
+
+![Hospitality Economic Preview](assets/hospitality-economic.webp)
+
+[Live Demo](https://norvain-hospitality-demo.netlify.app/)
+
+---
+
+### 03 — Gastro Economic
+
+![Gastro Economic Preview](assets/gastro-economic.webp)
+
+[Live Demo](https://norvain-gastro-demo.netlify.app/)
+
 
 </div>
 
