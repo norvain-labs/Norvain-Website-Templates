@@ -1,88 +1,152 @@
+# NorVain Labs — Website Template Collection
 
 <div align="center">
 
+**Distinctive Design. Clean Code. Built for Developers.**
 
-### 01 — Corporate Economic
+A showcase of website templates and developer-ready source code by **NorVain Labs**.
 
-![Corporate Economic Preview](assets/corporate-economic.png)
-
-[Live Demo](https://norvain-corporate-demo.netlify.app/) · [Explore on Gumroad](https://norvain.gumroad.com)
-
----
-
-### 02 — Hospitality Economic
-
-![Hospitality Economic Preview](assets/hospitality-economic.png)
-
-[Live Demo](https://norvain-hospitality-demo.netlify.app/) · [Explore on Gumroad](https://norvain.gumroad.com)
-
----
-
-### 03 — Gastro Economic
-
-![Gastro Economic Preview](assets/gastro-economic.png)
-
-[Live Demo](https://norvain-gastro-demo.netlify.app/) · [Explore on Gumroad](https://norvain.gumroad.com)
-
+[Official Website](https://norvainlabs.com) · [Gumroad Store](https://norvain.gumroad.com) · [GitHub](https://github.com/norvain-labs)
 
 </div>
 
 ---
 
-## About the Collection
+## Explore Our Collections
 
-Economic Collection is a series of commercial website source-code templates developed by NorVain Labs.
+NorVain Labs develops customizable website templates for freelancers, frontend developers, and development agencies.
 
-The collection focuses on three business categories:
+Our digital products are organized into three collections, each with a different purpose and level of functionality.
 
-- Corporate and business websites
-- Hotels and accommodation properties
-- Restaurants, cafés, and food businesses
+### Free Collection
 
-Each template is intended for developers who want a customizable foundation for their projects.
+Accessible website templates designed to help developers explore our work and get started with their projects.
 
+### Professional Collection
+
+Premium website templates focused on distinctive visual design, responsive layouts, and developer-friendly source code.
+
+Depending on the product, Professional templates may be offered in Standard or Admin + CMS editions.
+
+### Signature Collection
+
+Our most comprehensive template series, developed around original design concepts, advanced functionality, and more extensive customization capabilities.
+
+**Note:** Collection availability varies. Only products explicitly listed in our Gumroad store are currently available.
 
 ---
 
-## Who Is This For?
+## Featured Templates
 
-Economic Collection is designed for:
+<div align="center">
+
+### 01 — Corporate
+
+
+
+[Live Demo](https://norvain-corporate-demo.netlify.app/) · [Explore on Gumroad](https://norvain.gumroad.com)
+
+---
+
+### 02 — Hospitality
+
+
+
+[Live Demo](https://norvain-hospitality-demo.netlify.app/) · [Explore on Gumroad](https://norvain.gumroad.com)
+
+---
+
+### 03 — Gastro
+
+
+
+[Live Demo](https://norvain-gastro-demo.netlify.app/) · [Explore on Gumroad](https://norvain.gumroad.com)
+
+</div>
+
+---
+
+## Designed for Developers
+
+Our website templates are created for:
 
 - Freelance web developers
-- Frontend developers
+- Frontend and full-stack developers
+- Independent software creators
 - Small development agencies
 - Web design studios
-- Developers working on client projects
+- Developers building websites for clients
 
-These products provide source code for customization. They are not managed website hosting or installation services.
+Our focus is on providing customizable foundations that developers can adapt to their own workflows and projects.
+
+Depending on the product, our templates may include:
+
+- React and Next.js source code
+- Responsive website layouts
+- Reusable UI components
+- Customizable styling
+- SEO-ready structures
+- Admin and CMS functionality
+
+Always refer to the individual product page for its exact features and technical requirements.
+
+---
+
+## Templates vs. Custom Development
+
+**Our template collections are digital products, not a representation of every website we build for clients.**
+
+The templates showcased here are created for developers who want ready-to-customize source code.
+
+Beyond our digital products, NorVain Labs also develops original websites and digital experiences for businesses.
+
+Every custom client project is designed around its own brand identity, business requirements, and target audience.
+
+While projects may share technical foundations, their visual design, page composition, and user experience are developed independently.
+
+**Shared technology. Independent design.**
+
+Learn more about our custom development services at [norvainlabs.com](https://norvainlabs.com).
+
+---
 
 ## Licensing & Source Code
 
-**Economic Collection is commercial software.**
+This repository is a public showcase and information hub.
 
-The source code is not publicly distributed through this repository.
+It does not distribute the commercial source code of our paid products.
 
-Products are available through Gumroad with Single Project and Agency licensing options.
+Each template is subject to the license specified on its individual product page.
 
-Please review the applicable product license before purchasing or using a template.
+License availability and permitted usage may vary by collection and product.
 
-This repository serves as a public showcase and product information hub.
+Please review the applicable license terms before downloading, modifying, redistributing, or using any template commercially.
+
+Products are distributed through our [Gumroad Store](https://norvain.gumroad.com).
+
+---
 
 ## About NorVain Labs
 
 NorVain Labs is an independent software initiative based in Türkiye, founded by Sercan Ulusal.
 
-We develop web technologies for businesses and digital products for developers.
+We build digital products for developers and create custom web experiences for businesses.
+
+Our work focuses on thoughtful design, maintainable code, performance, and practical functionality.
+
+We believe accessible products and premium design should not be mutually exclusive.
 
 **Website:** https://norvainlabs.com
 
-**Store:** https://norvain.gumroad.com
+**Gumroad:** https://norvain.gumroad.com
+
+**GitHub:** https://github.com/norvain-labs
 
 ---
 
 <div align="center">
 
-**Explore the demos. Find a starting point for your next project.**
+**Explore the templates. Build something of your own.**
 
 © NorVain Labs
 
