@@ -4,7 +4,7 @@
 
 ### 01 — Corporate Economic
 
-![Corporate Economic Preview](assets/corporate-economic.webp)
+![Corporate Economic Preview](assets/corporate-economic.png)
 
 [Live Demo](https://norvain-corporate-demo.netlify.app/)
 
@@ -12,7 +12,7 @@
 
 ### 02 — Hospitality Economic
 
-![Hospitality Economic Preview](assets/hospitality-economic.webp)
+![Hospitality Economic Preview](assets/hospitality-economic.png)
 
 [Live Demo](https://norvain-hospitality-demo.netlify.app/)
 
@@ -20,7 +20,7 @@
 
 ### 03 — Gastro Economic
 
-![Gastro Economic Preview](assets/gastro-economic.webp)
+![Gastro Economic Preview](assets/gastro-economic.png)
 
 [Live Demo](https://norvain-gastro-demo.netlify.app/)
 
