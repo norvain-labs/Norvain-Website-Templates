@@ -6,7 +6,7 @@
 
 ![Corporate Economic Preview](assets/corporate-economic.png)
 
-[Live Demo](https://norvain-corporate-demo.netlify.app/)
+[Live Demo](https://norvain-corporate-demo.netlify.app/) · [Explore on Gumroad](https://norvain.gumroad.com)
 
 ---
 
@@ -14,7 +14,7 @@
 
 ![Hospitality Economic Preview](assets/hospitality-economic.png)
 
-[Live Demo](https://norvain-hospitality-demo.netlify.app/)
+[Live Demo](https://norvain-hospitality-demo.netlify.app/) · [Explore on Gumroad](https://norvain.gumroad.com)
 
 ---
 
@@ -22,7 +22,7 @@
 
 ![Gastro Economic Preview](assets/gastro-economic.png)
 
-[Live Demo](https://norvain-gastro-demo.netlify.app/)
+[Live Demo](https://norvain-gastro-demo.netlify.app/) · [Explore on Gumroad](https://norvain.gumroad.com)
 
 
 </div>
@@ -41,35 +41,6 @@ The collection focuses on three business categories:
 
 Each template is intended for developers who want a customizable foundation for their projects.
 
-## Explore the Collection
-
-### 01 — Corporate Economic
-
-A responsive website template for corporate and business projects.
-
-**Suitable for:** Freelance developers, web studios, and agencies building business websites.
-
-[View Live Demo](https://norvain-corporate-demo.netlify.app/) · [Explore on Gumroad](https://norvain.gumroad.com)
-
----
-
-### 02 — Hospitality Economic
-
-A website template designed for hotels, boutique properties, and accommodation businesses.
-
-**Suitable for:** Developers building websites for hospitality clients.
-
-[View Live Demo](https://norvain-hospitality-demo.netlify.app/) · [Explore on Gumroad](https://norvain.gumroad.com)
-
----
-
-### 03 — Gastro Economic
-
-A website template for restaurants, cafés, and food-service businesses.
-
-**Suitable for:** Freelancers and agencies working on restaurant and café websites.
-
-[View Live Demo](https://norvain-gastro-demo.netlify.app/) · [Explore on Gumroad](https://norvain.gumroad.com)
 
 ---
 
